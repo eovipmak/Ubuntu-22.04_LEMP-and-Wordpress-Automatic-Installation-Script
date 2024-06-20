@@ -11,4 +11,6 @@ wget https://raw.githubusercontent.com/eovipmak/Ubuntu-22.04_LEMP-and-Wordpress-
 chmod +x Excute.sh
 bash Excute.sh
 ```
-`a`
+Quý khách nhập thông tin theo hướng dẫn trên màn hình, nếu xuất hiện bảng vui lòng nhấn Enter.
+
+*Chúc Quý khách cấu hình thành công*
