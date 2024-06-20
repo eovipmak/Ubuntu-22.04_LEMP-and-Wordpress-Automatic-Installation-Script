@@ -1,0 +1,1 @@
+# Ubuntu-22.04_LEMP-and-Wordpress-Automatic-Installation-Script
