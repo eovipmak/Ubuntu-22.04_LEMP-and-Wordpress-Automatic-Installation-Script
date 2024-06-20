@@ -136,7 +136,7 @@ echo "Dang cai dat PHP phien ban $php_v , vui long doi..."
 sleep 1
 
 sudo add-apt-repository ppa:ondrej/php -y && sudo apt update
-sudo apt install $php_v $php_v-mysqli -y
+sudo apt install $php_v $php_v-mysqli -y $php_v-fpm
 
 echo "Da cai dat xong phien ban PHP $php_v!"
 
