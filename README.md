@@ -13,4 +13,6 @@ bash Excute.sh
 ```
 Quý khách nhập thông tin theo hướng dẫn trên màn hình, nếu xuất hiện bảng vui lòng nhấn Enter.
 
+![](A/001.png)
+
 *Chúc Quý khách cấu hình thành công*
